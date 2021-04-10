@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/old-wooden-texture-background-vintage_55716-1138.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: middle;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: blue;
+}
+.images{
+    width: 450px;
+    height: 250px;
+    border: 5px solid  white;
+    margin: 150px;
+}
